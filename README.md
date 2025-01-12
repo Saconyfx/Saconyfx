@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @Saconyfx
-- 👀 I’m interested in PENTESTING,SECURITY ARCHITECT,DIGTAL FORNESICS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00FF00&lines=👋+Welcome+I'm+Saconyfx;💻+Penetration+Tester;🛠️+Frontend+Backend+Enthusiast;🌍+Navigating+the+Depths+of+Cybersecurity" alt="Typing Animation" />
+</h1>
 
-<!---
-Saconyfx/Saconyfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👋 About Me
+- 🌱 I’m currently enhancing my skills in Red Teaming Activities and Exploit Development
+- 🔎 Ask me about Penetration Testing, Vulnerability Assessment, and Cyber Threat Analysis
+- 🛡️ Passionate about Ethical Hacking and Defensive Security Strategies
+- 🌐 Exploring advanced techniques in Red Team Operations
+- 📚 Focused on global research advocating for the integration of Ethical Hacking into school curricula
+
+
+---
+
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif" alt="Hacker GIF" width="300" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-skyblue?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" alt="Facebook" />
+  </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge" alt="Medium" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?logo=About.me&style=for-the-badge" alt="Website" />
+  </a>
+</p>
+
+---
+
+### ⚒️ Languages-Frameworks-Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+### ⚡ GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saconyfx&theme=radical" alt="Current Streak" /> <img src="https://github-readme-stats.vercel.app/api?username=Saconyfx&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saconyfx&layout=compact&theme=radical" alt="Most Used Languages" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saconyfx&theme=radical" alt="Top Languages Card" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical" alt="Profile Stats Card" /> </p>
+
+
+

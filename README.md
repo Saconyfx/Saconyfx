@@ -52,7 +52,26 @@
 ---
 
 ### ⚡ GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saconyfx&theme=radical" alt="Current Streak" /> <img src="https://github-readme-stats.vercel.app/api?username=Saconyfx&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saconyfx&layout=compact&theme=radical" alt="Most Used Languages" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saconyfx&theme=radical" alt="Top Languages Card" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical" alt="Profile Stats Card" /> </p>
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saconyfx&theme=radical" alt="Current Streak" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Saconyfx&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Based on All Repos -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saconyfx&layout=compact&langs_count=100&theme=radical" alt="All Used Languages" />
+</p>
+
+<p align="center">
+  <!-- Languages Per Repository -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saconyfx&theme=radical" alt="Top Languages Card" />
+  
+  <!-- Overall Profile Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical" alt="Profile Stats Card" />
+</p>
 
 
 

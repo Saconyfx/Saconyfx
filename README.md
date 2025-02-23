@@ -60,10 +60,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Saconyfx&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+
+## 🌐 Most Used Languages
+
 <p align="center">
-  <!-- Top Languages Based on All Repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saconyfx&layout=compact&langs_count=100&theme=radical" alt="All Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saconyfx&layout=compact&langs_count=10&theme=radical&cache_seconds=3600" alt="All Used Languages" />
 </p>
+
 
 <p align="center">
   <!-- Languages Per Repository -->

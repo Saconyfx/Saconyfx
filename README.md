@@ -72,9 +72,8 @@
   <!-- Languages Per Repository -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saconyfx&theme=radical" alt="Top Languages Card" />
   
-  <!-- Overall Profile Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical" alt="Profile Stats Card" />
-</p>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical&v=2" alt="Profile Stats Card" />
+
 
 
 

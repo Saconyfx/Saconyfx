@@ -10,7 +10,6 @@
 - 🛡️ Passionate about Ethical Hacking and Defensive Security Strategies
 - 🌐 Exploring advanced techniques in Red Team Operations
 - 📚 Focused on global research advocating for the integration of Ethical Hacking into school curricula
-- ☠️ Malware Developer
 
 
 ---

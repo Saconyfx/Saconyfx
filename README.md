@@ -4,13 +4,11 @@
 
 ---
 
-### 👋 About Me
-- 🌱 I’m currently enhancing my skills in Red Teaming Activities and Exploit Development
-- 🔎 Ask me about Penetration Testing, Vulnerability Assessment, and Cyber Threat Analysis
-- 🛡️ Passionate about Ethical Hacking and Defensive Security Strategies
-- 🌐 Exploring advanced techniques in Red Team Operations
--    
-
+## About Me
+	•	🌱 Currently building deeper expertise in red teaming and exploit development
+	•	🔎 Ask me about penetration testing, vulnerability assessment, and offensive security analysis
+	•	🛡️ Passionate about ethical hacking and understanding how systems break to make them stronger
+	•	🌐 Exploring advanced red team techniques across web, AI, and Web3 systems
 
 ---
 

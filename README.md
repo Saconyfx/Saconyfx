@@ -32,7 +32,7 @@
   <a href="https://facebook.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" alt="Facebook" />
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
+  <a href="https://saconychukwu.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge" alt="Medium" />
   </a>
   <a href="https://yourwebsite.com" target="_blank">

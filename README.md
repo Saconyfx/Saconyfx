@@ -9,7 +9,7 @@
 - 🔎 Ask me about Penetration Testing, Vulnerability Assessment, and Cyber Threat Analysis
 - 🛡️ Passionate about Ethical Hacking and Defensive Security Strategies
 - 🌐 Exploring advanced techniques in Red Team Operations
-- 📚 Focused on global research advocating for the integration of Ethical Hacking into school curricula
+- 📚 Focused on global research advocating 
 
 
 ---

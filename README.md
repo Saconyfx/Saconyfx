@@ -23,7 +23,7 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/saconychukwu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-skyblue?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">

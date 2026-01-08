@@ -29,7 +29,7 @@
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/share/1AHfcmHqmp/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" alt="Facebook" />
   </a>
   <a href="https://saconychukwu.medium.com" target="_blank">

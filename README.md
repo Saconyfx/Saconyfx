@@ -5,7 +5,6 @@
 ---
 
 ###👋 About Me
-
 - 🌱 Currently building deeper expertise in red teaming and exploit development
 - 🔎 Ask me about penetration testing, vulnerability assessment, and offensive security analysis
 - 🛡️ Passionate about ethical hacking and understanding how systems break to make them stronger

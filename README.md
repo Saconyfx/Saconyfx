@@ -1,8 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&center=true&vCenter=true&width=1000&height=100&duration=4000&color=00FF00&lines=👋%20Welcome%20I'm%20Saconyfx;💻%20Penetration%20Tester;🛠️%20Frontend%20Backend%20Enthusiast;🌍%20Navigating%20the%20Depths%20of%20Cybersecurity" alt="Typing Animation" />
 </h1>
-
----
+--
 
 ###👋 About Me
 - 🌱 Currently building deeper expertise in red teaming and exploit development

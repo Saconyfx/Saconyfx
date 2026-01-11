@@ -67,7 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saconyfx&layout=compact&langs_count=10&theme=radical&cache_seconds=3600" alt="All Used Languages" />
 </p>
 
-
 <p align="center">
   <!-- Languages Per Repository -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saconyfx&theme=radical" alt="Top Languages Card" />

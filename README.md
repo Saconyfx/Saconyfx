@@ -55,6 +55,14 @@
   <!-- GitHub Streak -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Saconyfx" alt="GitHub Streak" /></a>
 
+---
+
+
+
+### 🔥 Profile Details
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saconyfx&theme=radical" alt="GitHub Profile Details" />
+</p>
 
 
 
@@ -65,17 +73,13 @@
 
 
 ## 🌐 Most Used Languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical)
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saconyfx&layout=compact&langs_count=10&theme=radical&cache_seconds=3600" alt="All Used Languages" />
-</p>
+
 
 <p align="center">
   <!-- Languages Per Repository -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saconyfx&theme=radical" alt="Top Languages Card" />
   
-  <!-- Profile Stats (All-Time) -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Saconyfx&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="All-Time GitHub Stats" />
-</p>

@@ -57,25 +57,25 @@
 
 ---
 
-
-
 ### 🔥 Profile Details
+
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical"
+    alt="GitHub Stats"
+  />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saconyfx&theme=radical" alt="GitHub Profile Details" />
 </p>
 
+---
 
-
-  
-  <!-- GitHub Stats (All-Time Commits) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Saconyfx&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=2" alt="GitHub Stats" />
-</p>
 
 
 ## 🌐 Most Used Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saconyfx&theme=radical)
-
-<p align="center">
 
 
 <p align="center">

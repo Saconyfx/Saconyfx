@@ -53,7 +53,11 @@
 ### ⚡ GitHub Stats & Activity
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saconyfx&theme=radical" alt="Current Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Saconyfx" alt="GitHub Streak" /></a>
+
+
+
+
   
   <!-- GitHub Stats (All-Time Commits) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Saconyfx&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=2" alt="GitHub Stats" />

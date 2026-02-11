@@ -51,7 +51,10 @@
 
 ---
 
-
+### ⚡ GitHub Stats & Activity
+<p align="center">
+  <!-- GitHub Streak -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Saconyfx" alt="GitHub Streak" /></a>
 ---
 
 ### 🔥 Profile Details

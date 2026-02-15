@@ -38,10 +38,10 @@
 </p>
 
 ---
-
+### OPERATING SYSTEM 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,macos,kali,parrot,fedora,debian&perline=6" />
+    <img src="https://skillicons.dev/icons?i=windows,macos,kali,ubuntu,fedora,debian&perline=6" />
   </a>
 </p>
 
